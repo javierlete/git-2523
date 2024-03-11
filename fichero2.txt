@@ -1,4 +1,4 @@
 Otro fichero
-Segunda línea
 Tercera línea
-Cuarta línea
+Nueva línea
+Cuarta línea cambiada
