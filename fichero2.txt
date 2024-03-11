@@ -1,0 +1,4 @@
+Otro fichero
+Segunda línea
+Tercera línea
+Cuarta línea
